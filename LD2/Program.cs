@@ -18,7 +18,12 @@ namespace ConsoleApp1
             LD2.Class1 myObj2 = new LD2.Class1();
             myObj.MyMethod();
             myObj2.SekosNr();
-
+            //aaaaa
+            //sdasdasd
+            //asddasdasdas
+            //5555
+            //aaaa
+            
         }
     }
 }
